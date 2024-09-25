@@ -29,6 +29,9 @@ int main() {
     case 4:      result = (double) a / b;
 
                     break;
+    case 5:      result = pow(a,b);
+
+                    break;                
 
   }
 
